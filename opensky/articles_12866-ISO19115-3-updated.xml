@@ -220,12 +220,12 @@
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
                      <gmd:title>
-                        <gco:CharacterString>Resource Type</gco:CharacterString>
+                        <gco:CharacterString>Resource Type TestAdd</gco:CharacterString>
                      </gmd:title>
                      <gmd:date>
                         <gmd:CI_Date>
                            <gmd:date>
-                              <gco:DateTime>2016-01-01T00:00:00Z</gco:DateTime>
+                              <gco:DateTime>2018-05-25T13:56Z</gco:DateTime>
                            </gmd:date>
                            <gmd:dateType>
                               <gmd:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
